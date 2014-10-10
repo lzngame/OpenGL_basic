@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+#test
+
+*.exe
+*.sdf
+*.tlog
+*.ipch
+
+Debug/*
+/*/Debug
+/*/Debug/*
+/*/*/Debug
+/*/*/Debgu/*
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 7add21386d107deed0beefc1e49a5d481f1e393f
